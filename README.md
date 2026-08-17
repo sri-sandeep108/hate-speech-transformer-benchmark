@@ -98,7 +98,7 @@ All models were evaluated on a held-out, stratified test set ($N \approx 44,600$
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/hate-speech-transformer-benchmark.git
+git clone https://github.com/sri-sandeep108/hate-speech-transformer-benchmark.git
 cd hate-speech-transformer-benchmark
 ```
 
