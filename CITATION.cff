@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research or code in your work, please cite it as below."
+authors:
+  - family-names: "Sakthivel"
+    given-names: "Sri Sandeep"
+title: "A Comparative Analysis of Transformer Models and Static Word Embedding Model for Hate Speech Detection"
+type: thesis
+institution: "MSc in Data Analytics"
+year: 2026
